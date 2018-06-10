@@ -1,0 +1,48 @@
+#head{
+    height: 56px;
+    width: 100%;
+    background-color: #ffd100;
+
+    display: flex;
+}
+
+.logo image{
+    width: 120px;
+    height: 30px;
+}
+.logo{
+    margin-left: 70px;
+    margin-right: 200px;
+    padding: 10px;
+}
+button {
+    width: 80px;
+    height: 56px;
+    background-color: #ffd100;
+    border: none;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    float: left;
+}
+
+button:hover {
+    background-color: #000000;
+}
+.keys p{
+    color: black;
+}
+.keys p:hover{
+    color: #ffd100;
+}
+.login{
+    margin-left: 500px;
+}
+.carousel-inner img{
+    width: 1130px;
+    border-radius: 5px;
+    margin: 20px auto;
+}
